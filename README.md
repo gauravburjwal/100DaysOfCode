@@ -1,6 +1,6 @@
 # #100DaysOfCode
 
-## I've joined the #100DaysOfCode Challenge with [Shivani Mehta](https://github.com/shivani7n7)
+## I've joined the #100DaysOfCode Challenge with [Gaurav Burjwal](https://github.com/gauravburjwal)
 
 ## Contents
 
