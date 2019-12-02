@@ -6,7 +6,7 @@
 
 **Thoughts:** Started learning DSA and today i implemented 2 sorting algorithms in Python. First learning theory than implementing the algorithm works really well! 
 
-**Link to Work:** [Day-001](programs/day001)
+**Link to Work:** [Day-001](Programs/Day001)
 
 **Tweet:**
 
