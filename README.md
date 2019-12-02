@@ -2,11 +2,13 @@
 
 ## I've joined the #100DaysOfCode Challenge with [Shivani Mehta](https://github.com/shivani7n7)
 
+My motive is to learn Data Structure and Algorithms and improve my problem solving skills while practicing on competitive coding platforms.
+
 ## Contents
 
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
+* [FAQ](faq.md)
 * [Resources](resources.md)
 
 ## If you've decided to join:
