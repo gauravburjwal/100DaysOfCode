@@ -20,3 +20,14 @@
 **Link to Work:** [Day-002](Programs/Day002)
 
 **Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1201887119322443776)
+
+
+## Day 2: December 04, 2019
+
+**Today's Progress:** Solved more problems on Hackerrank 
+
+**Thoughts:** Solved problems on Lists and Tuples section and implemented binary search. Was stuck on a problem so only 4 programs.
+
+**Link to Work:** [Day-003](Programs/Day003)
+
+**Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1202229411228971009)
