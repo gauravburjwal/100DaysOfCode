@@ -4,7 +4,7 @@
 
 **Today's Progress:** Implemented sorting algorithms in Python
 
-**Thoughts:** Started learning DSA and today i implemented 2 sorting algorithms in Python. First learning theory than implementing the algorithm works really well! 
+**Thoughts:** Started learning DSA and today I implemented 2 sorting algorithms in Python. First learning theory than implementing the algorithm works well! 
 
 **Link to Work:** [Day-000](Programs/Day000)
 
@@ -15,7 +15,7 @@
 
 **Today's Progress:** Started with practising Python on Hackerrank
 
-**Thoughts:** Completed Introduction module and got 2 starts.Questions was very easy and basic level.Looking forward to do more.
+**Thoughts:** Completed introduction module and got 2 stars. Questions were very easy and basic level. Looking forward to doing more.
 
 **Link to Work:** [Day-001](Programs/Day001)
 
@@ -31,3 +31,11 @@
 **Link to Work:** [Day-002](Programs/Day002)
 
 **Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1202229411228971009)
+
+## Day 3: December 05, 2019
+
+**Today's Progress:** Studied all the sorting algorithms. 
+
+**Thoughts:** Studied all the sorting algorithms but not able to code today as exams are approaching.
+
+
