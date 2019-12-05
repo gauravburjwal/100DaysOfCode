@@ -6,7 +6,7 @@
 
 **Thoughts:** Started learning DSA and today i implemented 2 sorting algorithms in Python. First learning theory than implementing the algorithm works really well! 
 
-**Link to Work:** [Day-001](Programs/Day001)
+**Link to Work:** [Day-000](Programs/Day000)
 
 **Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1201579299758903297)
 
@@ -17,7 +17,7 @@
 
 **Thoughts:** Completed Introduction module and got 2 starts.Questions was very easy and basic level.Looking forward to do more.
 
-**Link to Work:** [Day-002](Programs/Day002)
+**Link to Work:** [Day-001](Programs/Day001)
 
 **Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1201887119322443776)
 
@@ -28,6 +28,6 @@
 
 **Thoughts:** Solved problems on Lists and Tuples section and implemented binary search. Was stuck on a problem so only 4 programs.
 
-**Link to Work:** [Day-003](Programs/Day003)
+**Link to Work:** [Day-002](Programs/Day002)
 
 **Tweet:** [Click Me](https://twitter.com/burjwalcodes/status/1202229411228971009)
